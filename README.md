@@ -44,7 +44,7 @@ The trained network was applied as a retracker to the full CryoSat-2 LRM wavefor
 
 ```bash
 # Clone the repository
-git clone https://github.com/Alireza202412/awi-icenet1-retracker.git
+git clone https://github.com/Alireza-Dehghanpour/awi-icenet1-retracker.git
 cd awi-icenet1-retracker
 
 # Install dependencies
