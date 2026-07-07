@@ -2,7 +2,7 @@
 # AWI-ICENet1: Convolutional Neural Network for Ice Altimetry Retracking
 
 
-> Developed at [Alfred Wegener Institute (AWI) as part of my PhD project](https://www.awi.de/).
+> Developed at [Alfred Wegener Institute (AWI)](https://www.awi.de/).
 
 ---
 
